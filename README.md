@@ -19,9 +19,8 @@ Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model
     3.Mongoose
     4.MongoDb
     5.Express.js
-
-    # Node Server Dependencies-
-      ![dependencies](https://github.com/ANMOLPALIIT-ISM/Udemy-Host/assets/91240707/9ebbfda7-64ab-4e01-ae3c-73d16d15ad8d)
+### Node Server Dependencies-
+![dependencies](https://github.com/ANMOLPALIIT-ISM/Udemy-Host/assets/91240707/9ebbfda7-64ab-4e01-ae3c-73d16d15ad8d)
 
 ## Hosting-
 * Currently, the Backend (server) is hosted on Render and the frontend is hosted on vercel
