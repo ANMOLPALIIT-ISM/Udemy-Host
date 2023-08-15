@@ -6,7 +6,7 @@ Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model
 
 
 
-#Features of This App-
+# Features of This App-
 1.For Students- 
        * Cart CheckOut
        * Course list- a list of published courses by instructors which the student can buy (Currently the payment is supported by Razorpay Services)
@@ -16,7 +16,7 @@ Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model
        a.Dashboard giving the instructor statistics about the income generated and number of students enrolled in a particular Course.
        b.Course Management Pages ,which allows the Instructor to create ,edit and publish Courses
        c.View and Edit Details- Unlike the Students, the Instructor can also view/edit their Profile Information
-#Tech Stacks and Libraries Used -
+# Tech Stacks and Libraries Used -
     1.React js
     2.Node js
     3.Mongoose
@@ -25,7 +25,7 @@ Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model
 
     # Node Server Dependencies-
       
-#Hosting-
+# Hosting-
   Currently, the Backend (server) is hosted on Render and the frontend is hosted on vercel
   visit The site - https://udemy-frontend-chi.vercel.app/
 
