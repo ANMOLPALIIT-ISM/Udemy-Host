@@ -3,12 +3,13 @@ Made By-ANMOL PAL
 
 Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model which can be used to make,publish and sell Online Courses across the net.
 
-#Features of This App-
+
+Features of This App-
 1.For Students- 
-       a.Cart CheckOut
-       b.Course list- a list of published courses by instructors which the student can buy (Currently the payment is supported by Razorpay Services)
-       c.Course Content- this page will render the contents of a particular bought course (including Video Lectures etc.)
-       d.Profile Page which includes all the details of the user which the user can view as well as update (including profile Pictures which are stored on Cloudinary)
+       * Cart CheckOut
+       * Course list- a list of published courses by instructors which the student can buy (Currently the payment is supported by Razorpay Services)
+       * Course Content- this page will render the contents of a particular bought course (including Video Lectures etc.)
+       * Profile Page which includes all the details of the user which the user can view as well as update (including profile Pictures which are stored on Cloudinary)
 2.For Instructors-
        a.Dashboard giving the instructor statistics about the income generated and number of students enrolled in a particular Course.
        b.Course Management Pages ,which allows the Instructor to create ,edit and publish Courses
