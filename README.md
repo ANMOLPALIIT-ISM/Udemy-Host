@@ -26,7 +26,7 @@ Udemy-clone is an Ed-Tech Web App based on MVC(Models,View and Controller) Model
 * Currently, the Backend (server) is hosted on Render and the frontend is hosted on vercel
 * visit The site - https://udemy-frontend-chi.vercel.app/
 ## Caution-
-* Kindly note that the database server (MONGODB) shuts down the connection in every 7 days of inactivity, so if you open the live link there can be a possibility of site not working properly. If that is the case , kindly reach out to me at iamanmolpal@gmail.com and I would be more than happy to start the database server manually.  
+* Kindly note that the database server (MONGODB) shuts down the connection in every 7 days of inactivity, so if you open the live link there can be a possibility of site not working properly. If that is the case , kindly reach out to me at iamanmolpal226@gmail.com and I would be more than happy to start the database server manually.  
   
 
        
